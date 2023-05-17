@@ -145,8 +145,8 @@ export const createModel = async (
 };
 // add Layers
 function addLayers(model, shape, activation) {
-  model.add(tf.layers.dense({ units: 64, activation: 'relu' }));
-  model.add(tf.layers.dense({ units: 64, activation: 'relu' }));
+  // model.add(tf.layers.dense({ units: 64, activation: 'relu' }));
+  // model.add(tf.layers.dense({ units: 64, activation: 'relu' }));
 
   model.add(tf.layers.dense({ units: shape, activation: activation }));
 }
@@ -154,7 +154,7 @@ function addLayers(model, shape, activation) {
 function compileModel(model, loss, metrics) {
   //rember meterics should be an array
   model.compile({
-    optimizer: 'adam',
+    optimizer: 'sgd',
     loss: loss,
     metrics: metrics,
   });
