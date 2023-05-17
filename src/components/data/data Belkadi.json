@@ -1,0 +1,4468 @@
+[
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "A02",
+    "sum(Quantite)": 9491
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "M04",
+    "sum(Quantite)": 24791
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Venus",
+    "sum(Quantite)": 1784
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Star-X",
+    "sum(Quantite)": 5462
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Istar",
+    "sum(Quantite)": 2890
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Venus+",
+    "sum(Quantite)": 1142
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Kit Main PC-7",
+    "sum(Quantite)": 111
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Prise C-980",
+    "sum(Quantite)": 41
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M86",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M88",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "M09",
+    "sum(Quantite)": 16170
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "M06",
+    "sum(Quantite)": 7504
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 1,
+    "Marque": "Mibro",
+    "Modele": "Smart Watch X1",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Cable 2.4A Type C CL-66",
+    "sum(Quantite)": 344
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Cable 2.5A Type C CL-62",
+    "sum(Quantite)": 19
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Prise 3.0A C-824",
+    "sum(Quantite)": 134
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth ES34",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 1M 3A Type C X1",
+    "sum(Quantite)": 1371
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C C72Q",
+    "sum(Quantite)": 675
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Wise-Tech",
+    "Modele": "A3",
+    "sum(Quantite)": 101
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Cable Type C - Ip CL104",
+    "sum(Quantite)": 347
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Kit Main Z1",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2.4A S4 X2",
+    "sum(Quantite)": 506
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 3A Type C X2",
+    "sum(Quantite)": 200
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Wise-Tech",
+    "Modele": "A7",
+    "sum(Quantite)": 317
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Wise-Tech",
+    "Modele": "A7+",
+    "sum(Quantite)": 267
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Cable 2.4A S4 CL104",
+    "sum(Quantite)": 329
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur 3.0 S4 C12Q",
+    "sum(Quantite)": 453
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur 3.0 Type C C12Q",
+    "sum(Quantite)": 455
+  },
+  {
+    "Date création": "2022-09-01",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur S4 C72Q",
+    "sum(Quantite)": 1084
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "B350",
+    "sum(Quantite)": 285
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "C11-2021 2-32Gb",
+    "sum(Quantite)": 89
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "C21Y 4-64Gb",
+    "sum(Quantite)": 40
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "A03 3-32Gb",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "A03 4-64Gb",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "A03 Core 2-32Gb",
+    "sum(Quantite)": 22
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Vegas",
+    "sum(Quantite)": 2874
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": 308,
+    "sum(Quantite)": 14940
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "Q6",
+    "sum(Quantite)": 4095
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "Max30-Pro 3-32Gb",
+    "sum(Quantite)": 3170
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Ace",
+    "Modele": "Buzz 3+",
+    "sum(Quantite)": 296
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Nokia",
+    "Modele": 105,
+    "sum(Quantite)": 3822
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Wise-Tech",
+    "Modele": "A1+",
+    "sum(Quantite)": 325
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Wise-Tech",
+    "Modele": "A3+",
+    "sum(Quantite)": 3170
+  },
+  {
+    "Date création": "2022-09-03",
+    "Magasin": 1,
+    "Marque": "Wise-Tech",
+    "Modele": "A6+",
+    "sum(Quantite)": 1238
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Ace",
+    "Modele": "Urbain 3",
+    "sum(Quantite)": 154
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Auto S4 BZ12A",
+    "sum(Quantite)": 148
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Auto Type C BZ12A",
+    "sum(Quantite)": 120
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW03+",
+    "sum(Quantite)": 36
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW04+",
+    "sum(Quantite)": 31
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Cable Iphone To Audio CL-116L",
+    "sum(Quantite)": 24
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur S4 BA66A",
+    "sum(Quantite)": 68
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Micro 2M L14",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Starlight",
+    "Modele": "Star-Mix 2",
+    "sum(Quantite)": 381
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Wise-Tech",
+    "Modele": "A1",
+    "sum(Quantite)": 2138
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth ES56",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Tony",
+    "Modele": "Chargeur N70",
+    "sum(Quantite)": 256
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Tony",
+    "Modele": "Chargeur G700 D880",
+    "sum(Quantite)": 513
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Tony",
+    "Modele": "Chargeur 1100",
+    "sum(Quantite)": 186
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Tony",
+    "Modele": "Chargeur S4 G810",
+    "sum(Quantite)": 466
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur 2.4A Iphone BA23A",
+    "sum(Quantite)": 74
+  },
+  {
+    "Date création": "2022-09-04",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur 2.4A Type C BA23A",
+    "sum(Quantite)": 88
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "B310",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Milan-Pro",
+    "sum(Quantite)": 4118
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "M68",
+    "sum(Quantite)": 14697
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "MF1 1-8Gb",
+    "sum(Quantite)": 1600
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "Max10 2-16Gb",
+    "sum(Quantite)": 1600
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "Max-3X 2-16Gb",
+    "sum(Quantite)": 1600
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "M128",
+    "sum(Quantite)": 6850
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Remax",
+    "Modele": "Chargeur 3In1 RP-U35",
+    "sum(Quantite)": 3393
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "9A-Sport 2-32Gb",
+    "sum(Quantite)": 45
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 1M 2.4A S4 X1",
+    "sum(Quantite)": 681
+  },
+  {
+    "Date création": "2022-09-05",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur S4 BA59A",
+    "sum(Quantite)": 88
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "9A 4-64Gb",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "9A-2022 2-32Gb Global",
+    "sum(Quantite)": 27
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "M32 4-64Gb",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Cable 2M Iphone LS442",
+    "sum(Quantite)": 48
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Cable Type C To Audio CL-116T",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur 2.4A S4 BA58A",
+    "sum(Quantite)": 44
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur 2.4A Type C BA58A",
+    "sum(Quantite)": 53
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Type C To Type C BA67A",
+    "sum(Quantite)": 209
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Suport Bureau PH27",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T28-Pro",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T29-Pro",
+    "sum(Quantite)": 12
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Chargeur Iphone 2.1A C-832",
+    "sum(Quantite)": 113
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 2.4A S4 BU12",
+    "sum(Quantite)": 63
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 3A Type C BU12",
+    "sum(Quantite)": 195
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Type C BA39A",
+    "sum(Quantite)": 133
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Type C BA47A",
+    "sum(Quantite)": 44
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Type C BA59A",
+    "sum(Quantite)": 82
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M84",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Cable 2.5A S4 CL-61",
+    "sum(Quantite)": 75
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Chargeur Auto C-100",
+    "sum(Quantite)": 40
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Adaptateur Iphone 2In1 CL-72",
+    "sum(Quantite)": 53
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Chargeur Wireless W10",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Adaptateur Type-C CL-13",
+    "sum(Quantite)": 34
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Chargeur Auto Type C C-706",
+    "sum(Quantite)": 26
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Prise C-500",
+    "sum(Quantite)": 21
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Adaptateur AUX-002",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth G40BL",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Cable 2.5A Iphone CL-63",
+    "sum(Quantite)": 372
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main L3",
+    "sum(Quantite)": 16
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES900I",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Power Bank 8000 mAh P110K",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Suport Auto X5",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES-50TY",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth A980BL",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth A960BL",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES-180I",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth A920BL",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth N1",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Baffle Y330",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main Gamer L6",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Baffle Y900",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Baffle Y666",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Baffle Et Power Bank 8000mAh Y332",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth A610BL",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Baffle Y665",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES-20TY",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES-70TY",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES-10TY",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth A990BL",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth A860BL",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main ES-30TY",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Baffle Y336",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Kit Main Type C TC-5",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Iphone BA25A",
+    "sum(Quantite)": 27
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T28P",
+    "sum(Quantite)": 83
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T29",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Smart Watch Fit 2",
+    "sum(Quantite)": 0
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Iphone 13-Pro Max 128Gb",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 3In1 2.4A BX50",
+    "sum(Quantite)": 44
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable Type C To Type C 3A BX60",
+    "sum(Quantite)": 27
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable Type C To Type C 3A BX69",
+    "sum(Quantite)": 190
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 3A Type C BX54",
+    "sum(Quantite)": 1144
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 2.4A Iphone BU12",
+    "sum(Quantite)": 83
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 2.4A S4 BX54",
+    "sum(Quantite)": 1046
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Cable 2.4A S4 BX60",
+    "sum(Quantite)": 88
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur 2.4A S4 BA23A",
+    "sum(Quantite)": 98
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Prise 2.4A 2Usb BA58A",
+    "sum(Quantite)": 76
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Auto 2.4A S4 Z36",
+    "sum(Quantite)": 43
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Auto Type C Z40",
+    "sum(Quantite)": 67
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable S4 SY-03",
+    "sum(Quantite)": 586
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable S4 XS-07",
+    "sum(Quantite)": 925
+  },
+  {
+    "Date création": "2022-09-07",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Auxiliaire Audio 2M UPA16",
+    "sum(Quantite)": 17
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 10000mAh J75",
+    "sum(Quantite)": 82
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Prise 18W 3Usb BA40A",
+    "sum(Quantite)": 52
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur S4 BA47A",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth ES60",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Suport Bureau PH15",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth ES41",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-09-10",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Find X3-Lite 8-128Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-11",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Compresseur Electric S53",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-11",
+    "Magasin": 1,
+    "Marque": "Idoom",
+    "Modele": "1000 Da",
+    "sum(Quantite)": 201
+  },
+  {
+    "Date création": "2022-09-12",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2.4A Iphone X2",
+    "sum(Quantite)": 120
+  },
+  {
+    "Date création": "2022-09-13",
+    "Magasin": 8,
+    "Marque": "Tony",
+    "Modele": "Chargeur Standard Lcd",
+    "sum(Quantite)": 290
+  },
+  {
+    "Date création": "2022-09-13",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur S4 BA36A",
+    "sum(Quantite)": 33
+  },
+  {
+    "Date création": "2022-09-13",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Type C BA36A",
+    "sum(Quantite)": 43
+  },
+  {
+    "Date création": "2022-09-13",
+    "Magasin": 8,
+    "Marque": "Ace",
+    "Modele": "Buzz 3",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2022-09-14",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main Type C L10",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-09-14",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 10000mAh J68",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-09-14",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 20000mAh J85",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-09-14",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 20000mAh J59A",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-15",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M82",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-15",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M64",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-09-15",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Prise 2.4A 2Usb BA23A",
+    "sum(Quantite)": 133
+  },
+  {
+    "Date création": "2022-09-15",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M1-Max",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-15",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M78",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Reno 5 8-128Gb",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "9A 2-32Gb Global",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "T295",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C31",
+    "sum(Quantite)": 89
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C35",
+    "sum(Quantite)": 103
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome 9A",
+    "sum(Quantite)": 378
+  },
+  {
+    "Date création": "2022-09-18",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "B310 C",
+    "sum(Quantite)": 100
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau A54",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau F11-Pro",
+    "sum(Quantite)": 24
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couv 9A",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome M13",
+    "sum(Quantite)": 3978
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau A22-4G",
+    "sum(Quantite)": 56
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau A32",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Nouveau C21",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Nouveau Note8",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Wireless Fast AW001",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable Type C To Iphone X70",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome Reno 7",
+    "sum(Quantite)": 77
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A13",
+    "sum(Quantite)": 74
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome M33-5G",
+    "sum(Quantite)": 120
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau A94",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome 10C",
+    "sum(Quantite)": 76
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau M32",
+    "sum(Quantite)": 37
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 1M Iphone 4 X1",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Nouveau Note8-Pro",
+    "sum(Quantite)": 37
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome F13",
+    "sum(Quantite)": 3958
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A03 Core",
+    "sum(Quantite)": 116
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Couleur Reno 5",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A03S",
+    "sum(Quantite)": 14
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C11-2021",
+    "sum(Quantite)": 123
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau A93",
+    "sum(Quantite)": 48
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Couv C21Y",
+    "sum(Quantite)": 21
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Couv A54",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Couleur Note10",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C25Y",
+    "sum(Quantite)": 47
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C21Y",
+    "sum(Quantite)": 69
+  },
+  {
+    "Date création": "2022-09-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau Reno 2F",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Nouveau Redmi 10",
+    "sum(Quantite)": 19
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Couleur M31S",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau A01-Core",
+    "sum(Quantite)": 14
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau M51",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Ipake Reno 4",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau A15",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Nouveau C21Y",
+    "sum(Quantite)": 29
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone A10",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome M21-2021",
+    "sum(Quantite)": 36
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau A73",
+    "sum(Quantite)": 23
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Nouveau A91",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Nouveau 7I",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Nouveau 9T",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Couv M51",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome S10-5G",
+    "sum(Quantite)": 38
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "M203",
+    "sum(Quantite)": 3504
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur Type C BA66A",
+    "sum(Quantite)": 47
+  },
+  {
+    "Date création": "2022-09-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 3A Type C To Iphone X36",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A74 6-128Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 1.5M 3A Type C To Type C X62",
+    "sum(Quantite)": 16
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur Type C CH207",
+    "sum(Quantite)": 44
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M1-Pro",
+    "sum(Quantite)": 22
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 1M 3A Type C To Iphone X62",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur 10T",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur Note10-5G",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "10A 4-64Gb",
+    "sum(Quantite)": 29
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur Note9-Pro",
+    "sum(Quantite)": 14
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur Redmi 9",
+    "sum(Quantite)": 29
+  },
+  {
+    "Date création": "2022-09-21",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur Note10-Pro",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "P30 Lite",
+    "sum(Quantite)": 79
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Borofone",
+    "Modele": "Chargeur S4 BA39A",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Auxiliaire Audio 1M UPA16",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 20000mAh J87A",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 1,
+    "Marque": "Beats",
+    "Modele": "Casque Studio-3 A1914",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 1,
+    "Marque": "Beats",
+    "Modele": "Casque Solo-3 A1796",
+    "sum(Quantite)": 0
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 20000mAh J72A",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Magsafe",
+    "Modele": "Silicone Clear Iphone12-Pro Max",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Magsafe",
+    "Modele": "Silicone Clear Iphone13",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2022-09-22",
+    "Magasin": 8,
+    "Marque": "Magsafe",
+    "Modele": "Silicone Clear Iphone13-Pro",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-09-24",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "M118",
+    "sum(Quantite)": 4076
+  },
+  {
+    "Date création": "2022-09-24",
+    "Magasin": 1,
+    "Marque": "Vnus",
+    "Modele": "V1000 4-64Gb",
+    "sum(Quantite)": 810
+  },
+  {
+    "Date création": "2022-09-26",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Reno 7 8-128Gb",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-09-26",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "M52-5G 8-128Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-09-26",
+    "Magasin": 1,
+    "Marque": "Vnus",
+    "Modele": "V120 4-64Gb",
+    "sum(Quantite)": 317
+  },
+  {
+    "Date création": "2022-09-26",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main Iphone L7+",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-09-28",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "M33-5G 6-128Gb",
+    "sum(Quantite)": 52
+  },
+  {
+    "Date création": "2022-09-29",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A16S 4-64Gb",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-09-29",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A16k 3-32Gb",
+    "sum(Quantite)": 14
+  },
+  {
+    "Date création": "2022-09-29",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A54S 4-128Gb",
+    "sum(Quantite)": 42
+  },
+  {
+    "Date création": "2022-09-29",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Glass Tablette T295",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-09-29",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Pochette Tab A",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Auxiliaire Micro 3.5 JH-043",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Auxiliaire Micro Iphone JH-041",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur Mi-10",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couv Note10",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau A03S / M03S",
+    "sum(Quantite)": 45
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "M13 4-64Gb",
+    "sum(Quantite)": 70
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Couv A02S",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-10-01",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur Note10",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-10-02",
+    "Magasin": 1,
+    "Marque": "Remax",
+    "Modele": "Chargeur 2.4A Type-C RP-U22",
+    "sum(Quantite)": 378
+  },
+  {
+    "Date création": "2022-10-02",
+    "Magasin": 8,
+    "Marque": "Ooredoo",
+    "Modele": "Storm",
+    "sum(Quantite)": 46.34
+  },
+  {
+    "Date création": "2022-10-02",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M19",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "F13 4-64Gb",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "F12 4-64Gb",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-10-03",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "M12 4-64Gb India",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-03",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Chargeur S4 2.1A C-831",
+    "sum(Quantite)": 796
+  },
+  {
+    "Date création": "2022-10-04",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Auto S4 Z40",
+    "sum(Quantite)": 33
+  },
+  {
+    "Date création": "2022-10-04",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Chargeur S4 2.4A C-810",
+    "sum(Quantite)": 200
+  },
+  {
+    "Date création": "2022-10-04",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur C12",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-05",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Cable 2.4A Iphone CL-65",
+    "sum(Quantite)": 230
+  },
+  {
+    "Date création": "2022-10-05",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Casque A710BL",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-05",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Casque A770BL",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-06",
+    "Magasin": 1,
+    "Marque": "Ace",
+    "Modele": "Clever 3",
+    "sum(Quantite)": 47
+  },
+  {
+    "Date création": "2022-10-06",
+    "Magasin": 8,
+    "Marque": "Poco",
+    "Modele": "Silicone Nouveau M3",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-10-06",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Modulateur E51",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-10-09",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Auxiliaire Audio UPA19",
+    "sum(Quantite)": 22
+  },
+  {
+    "Date création": "2022-10-09",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2In1 S4 Et Iphone X54",
+    "sum(Quantite)": 14
+  },
+  {
+    "Date création": "2022-10-09",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Baffle Y331",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-09",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable S4 2.4A 1M U25",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-09",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable Type C 2.4A 1M U25",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-10-09",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 30000mAh B35E",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-10",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A94-5G 8-128Gb",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-10-10",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Ipake Note9 / 10X",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-10",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Ipake A02 / M02",
+    "sum(Quantite)": 16
+  },
+  {
+    "Date création": "2022-10-10",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Couleur M01S",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-11",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Bluetooth AirPods 3",
+    "sum(Quantite)": 401
+  },
+  {
+    "Date création": "2022-10-11",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Auxiliaire Nouveau",
+    "sum(Quantite)": 50
+  },
+  {
+    "Date création": "2022-10-11",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2In1 S4 Et Type C X54",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-11",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 10000mAh J63",
+    "sum(Quantite)": 19
+  },
+  {
+    "Date création": "2022-10-11",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 30000mAh J78",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-10-12",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 30000mAh J73",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-13",
+    "Magasin": 8,
+    "Marque": "Infinix",
+    "Modele": "Silicone Couleur Smart 4",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2022-10-13",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Auxiliaire Audio 1M UPA02",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-15",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "S22-Ultra 12-512Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-15",
+    "Magasin": 9,
+    "Marque": "Djezzy",
+    "Modele": "Flexy",
+    "sum(Quantite)": 818.32
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Cable 2.4A S4 X65",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Band 6 Fra-B19",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "P-Smart",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-15",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Pochette Smart Clear S22-Ultra",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable Type C To Type C X23",
+    "sum(Quantite)": 27
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Iphone C73A",
+    "sum(Quantite)": 44
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Auxiliaire LS411",
+    "sum(Quantite)": 39
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Carte Mémoire 16Gb",
+    "sum(Quantite)": 58
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Carte Mémoire 4Gb",
+    "sum(Quantite)": 298
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Carte Mémoire 8Gb",
+    "sum(Quantite)": 144
+  },
+  {
+    "Date création": "2022-10-16",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Power Bank 20000mAh J80A",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A16 3-32Gb",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "8I 4-64Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Silicone Couleur Iphone11-Pro",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Silicone Nouveau Y9s",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Cat A92",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Cat A93",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Cat Reno3",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Cat Reno4",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Poco",
+    "Modele": "Silicone Cat X3",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Poco",
+    "Modele": "Silicone Couleur F3",
+    "sum(Quantite)": 19
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Cat Note9",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Cat Note9-Pro",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Cat Note9S",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Couleur 10-Lite",
+    "sum(Quantite)": 11
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Nouveau Note9",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Cat A51",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Cat M30S",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Cat M31",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Cat M31S",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Cat M51",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Ipake S30+ / S21+",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Kit Main Type C TC-2",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-17",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 3A Type C To Iphone X56",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-10-18",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable Iphone U14",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-19",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Chargeur 12V",
+    "sum(Quantite)": 198
+  },
+  {
+    "Date création": "2022-10-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Cable Vooc Type C QC03",
+    "sum(Quantite)": 450
+  },
+  {
+    "Date création": "2022-10-19",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Cable Vooc S4 QC03",
+    "sum(Quantite)": 100
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Glass Ceramic Iphone 12-Pro Max",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Realme/Huawei/Samsung/Oppo",
+    "Modele": "Glass Ceramic Universel",
+    "sum(Quantite)": 71
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic A32",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Glass Ceramic A74",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic M30",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic A11",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Glass Ceramic 9T",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Glass Ceramic F1S",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Glass Ceramic Iphone 13",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Glass Ceramic Note9",
+    "sum(Quantite)": 12
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic J7 Pro",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Glass Ceramic Iphone 13-Pro Max",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Glass Ceramic Note9-Pro",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 1M 5A Type C X62",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Cat A31",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle HC11",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle BS48",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle HC7",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle HC9",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable Type C U14",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-20",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable S4 U14",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-23",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Silicone Ipake A01",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-23",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Cable S4 CL115",
+    "sum(Quantite)": 399
+  },
+  {
+    "Date création": "2022-10-24",
+    "Magasin": 1,
+    "Marque": "Panasonic",
+    "Modele": "Telephone KX-TGB10AF",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-24",
+    "Magasin": 8,
+    "Marque": "Akekio",
+    "Modele": "Cable 20W Type C To Iphone UC25",
+    "sum(Quantite)": 32
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Gfuz",
+    "Modele": "Chargeur 2.1A CH-02",
+    "sum(Quantite)": 180
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Gfuz",
+    "Modele": "Chargeur 2.4A CH-01",
+    "sum(Quantite)": 127
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth TA1",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle BS33",
+    "sum(Quantite)": 16
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle BS34",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C To Iphone C80A",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C To Type C C94A",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C To Type C N21",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "New Horizon",
+    "Modele": "Kit Main HS001",
+    "sum(Quantite)": 29
+  },
+  {
+    "Date création": "2022-10-25",
+    "Magasin": 8,
+    "Marque": "Gfuz",
+    "Modele": "Kit Main Iphone HF-07",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "S20-Fe 8-128Gb",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Baffle HC2",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Cable Type C",
+    "sum(Quantite)": 175
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2.4A Iphone U55",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2M Type C To Type C X50",
+    "sum(Quantite)": 22
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C To Iphone N13",
+    "sum(Quantite)": 28
+  },
+  {
+    "Date création": "2022-10-26",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2.4A S4 U55",
+    "sum(Quantite)": 27
+  },
+  {
+    "Date création": "2022-10-27",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Smart Watch Fit Tia-B09",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-10-30",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Cable Iphone CL117",
+    "sum(Quantite)": 120
+  },
+  {
+    "Date création": "2022-10-31",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "6A 3-32Gb",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-10-31",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Nouveau M32-5G",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-10-31",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW06",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-10-31",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW07",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-10-31",
+    "Magasin": 9,
+    "Marque": "Mobilis",
+    "Modele": "Ersely",
+    "sum(Quantite)": 20.67
+  },
+  {
+    "Date création": "2022-10-31",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Cable S4 CL117",
+    "sum(Quantite)": 148
+  },
+  {
+    "Date création": "2022-11-01",
+    "Magasin": 1,
+    "Marque": "Djezzy",
+    "Modele": "100 Da",
+    "sum(Quantite)": 1000
+  },
+  {
+    "Date création": "2022-11-01",
+    "Magasin": 1,
+    "Marque": "Mobilis",
+    "Modele": "100 Da",
+    "sum(Quantite)": 700
+  },
+  {
+    "Date création": "2022-11-02",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Casque Gamer W24",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-11-02",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW16",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-11-02",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Casque Gamer W104",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-11-03",
+    "Magasin": 1,
+    "Marque": "I5",
+    "Modele": "Q701",
+    "sum(Quantite)": 42
+  },
+  {
+    "Date création": "2022-11-03",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW10",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-11-07",
+    "Magasin": 1,
+    "Marque": "Mizoo",
+    "Modele": "Cable S4 M-X07",
+    "sum(Quantite)": 250
+  },
+  {
+    "Date création": "2022-11-07",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Chargeur Super Vooc S4 65W",
+    "sum(Quantite)": 91
+  },
+  {
+    "Date création": "2022-11-08",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Suport Bureau PH29A",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "Adam",
+    "Modele": "Q808+ 512-8Gb",
+    "sum(Quantite)": 88
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "I5",
+    "Modele": "A01-S",
+    "sum(Quantite)": 1287
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "I5",
+    "Modele": "C01",
+    "sum(Quantite)": 196
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "I5",
+    "Modele": "C02",
+    "sum(Quantite)": 245
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "I5",
+    "Modele": "Junior-01 1-8Gb",
+    "sum(Quantite)": 98
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "I5",
+    "Modele": "T7 1-16Gb",
+    "sum(Quantite)": 143
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Prise Usine 25W Type C EP-TA800",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic M21",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-11-11",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T29P",
+    "sum(Quantite)": 58
+  },
+  {
+    "Date création": "2022-11-13",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Cable S4",
+    "sum(Quantite)": 110
+  },
+  {
+    "Date création": "2022-11-13",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Auto MG08",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-11-13",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Auto MG09",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-11-13",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW12",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2022-11-13",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW15",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-11-13",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Auto MG05",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-11-14",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Note11 4-128Gb China",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-11-14",
+    "Magasin": 1,
+    "Marque": "Adata",
+    "Modele": "Usb 16Gb",
+    "sum(Quantite)": 49
+  },
+  {
+    "Date création": "2022-11-14",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Chargeur 2.0A S4",
+    "sum(Quantite)": 55
+  },
+  {
+    "Date création": "2022-11-14",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Casque Gamer W103",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-11-15",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Note11-Pro 8-128Gb",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-11-16",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Auto Chargeur 10W MA02",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-11-19",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Chargeur 2.4A Iphone C88A",
+    "sum(Quantite)": 9
+  },
+  {
+    "Date création": "2022-11-19",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "A77S 8-128Gb",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-11-20",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Chargeur Super Vooc Type C 65W",
+    "sum(Quantite)": 46
+  },
+  {
+    "Date création": "2022-11-20",
+    "Magasin": 8,
+    "Marque": "Gfuz",
+    "Modele": "Chargeur Auto 2.4A CH-06",
+    "sum(Quantite)": 129
+  },
+  {
+    "Date création": "2022-11-20",
+    "Magasin": 8,
+    "Marque": "Gfuz",
+    "Modele": "Chargeur 2.4A CH-04",
+    "sum(Quantite)": 140
+  },
+  {
+    "Date création": "2022-11-20",
+    "Magasin": 8,
+    "Marque": "Gfuz",
+    "Modele": "Chargeur 2.4A CH-05",
+    "sum(Quantite)": 130
+  },
+  {
+    "Date création": "2022-11-20",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Auto MG10",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW02+",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Auto MG03",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Suport Bureau MG07",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome F23-5G",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Cable 6A S4 JKX-37",
+    "sum(Quantite)": 360
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 8,
+    "Marque": "Aucune",
+    "Modele": "Cable 6A Type C JKX-38",
+    "sum(Quantite)": 227
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome M32",
+    "sum(Quantite)": 110
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome Reno 6-5G",
+    "sum(Quantite)": 48
+  },
+  {
+    "Date création": "2022-11-21",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome A94-5G",
+    "sum(Quantite)": 64
+  },
+  {
+    "Date création": "2022-11-22",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome Note11-Pro",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-11-22",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome F22",
+    "sum(Quantite)": 80
+  },
+  {
+    "Date création": "2022-11-23",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Manette GM5",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-11-23",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Cable Type C To Iphone A1703",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-11-26",
+    "Magasin": 1,
+    "Marque": "Infinix",
+    "Modele": "Smart6 3-64Gb",
+    "sum(Quantite)": 53
+  },
+  {
+    "Date création": "2022-11-28",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Prise Fast 2A",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-11-28",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Prise Fast Original",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-11-28",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome 10A",
+    "sum(Quantite)": 60
+  },
+  {
+    "Date création": "2022-11-30",
+    "Magasin": 8,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C40",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-12-01",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "P50-Pro 8-256Gb",
+    "sum(Quantite)": -2
+  },
+  {
+    "Date création": "2022-12-03",
+    "Magasin": 1,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T28",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2022-12-01",
+    "Magasin": 1,
+    "Marque": "Xunoo",
+    "Modele": "Silicone Transparent P50-Pro",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-04",
+    "Magasin": 1,
+    "Marque": "New Horizon",
+    "Modele": "Carte Mémoire 4Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-04",
+    "Magasin": 1,
+    "Marque": "Tablepro",
+    "Modele": "Baffle MG2",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-05",
+    "Magasin": 1,
+    "Marque": "Dt",
+    "Modele": "Smart Watch DT8-Ultra",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-05",
+    "Magasin": 1,
+    "Marque": "W&Q",
+    "Modele": "Smart Watch X8-Ultra",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-05",
+    "Magasin": 1,
+    "Marque": "Watch",
+    "Modele": "Smart Watch 3 Max-Ultra",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-06",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome Note11E",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-12-06",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Iphone 13-Pro Max 256Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-06",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Prise Pd MDY-10-EW",
+    "sum(Quantite)": 140
+  },
+  {
+    "Date création": "2022-12-06",
+    "Magasin": 8,
+    "Marque": "Xscoot",
+    "Modele": "Cable Iphone CL111",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Glass Ceramic F11-Pro",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 1,
+    "Marque": "Poco",
+    "Modele": "Glass Ceramic X3-Pro",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Glass Ceramic Note10",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic M62",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic A22",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 8,
+    "Marque": "Redmi",
+    "Modele": "Glass Ceramic Note10-5G",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Glass Ceramic Iphone 7",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-12-07",
+    "Magasin": 8,
+    "Marque": "Samsung",
+    "Modele": "Glass Ceramic A51",
+    "sum(Quantite)": 8
+  },
+  {
+    "Date création": "2022-12-08",
+    "Magasin": 1,
+    "Marque": "Vnus",
+    "Modele": "V110 3-32Gb",
+    "sum(Quantite)": 241
+  },
+  {
+    "Date création": "2022-12-08",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable 2.4A 1.2M S4 U78",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-12-11",
+    "Magasin": 11,
+    "Marque": "Huawei",
+    "Modele": "Smart Watch Fit Elegant Tia-B29",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Cable Iphone 2.0A X21",
+    "sum(Quantite)": 12
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Hainoteko",
+    "Modele": "Smart Watch RW-33",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Kiko Mi",
+    "Modele": "Smart Watch W11",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Kiko Mi",
+    "Modele": "Smart Watch W19",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Nabi",
+    "Modele": "Smart Watch 27A",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Compresseur Electric 1S",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome Note11-Pro 5G",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-12-12",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Smart Watch GT2-Pro",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2022-12-13",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Bluetooth FreeBuds 4I",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-12-13",
+    "Magasin": 1,
+    "Marque": "Starlight",
+    "Modele": "Star Plus+",
+    "sum(Quantite)": 529
+  },
+  {
+    "Date création": "2022-12-14",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "E1207",
+    "sum(Quantite)": 619
+  },
+  {
+    "Date création": "2022-12-18",
+    "Magasin": 8,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C To Iphone N21",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-12-19",
+    "Magasin": 10,
+    "Marque": "Maxfone",
+    "Modele": "V16",
+    "sum(Quantite)": 3890
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Adaptateur Audio Et Type C LS26",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth ES61",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Casque Gamer W21",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Chargeur S4 C73A",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Chargeur Type C C73A",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M97",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Kit Main M99",
+    "sum(Quantite)": 15
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Otg S4 UA10",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Borofone",
+    "Modele": "Cable 2.4A S4 BX19",
+    "sum(Quantite)": 300
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Borofone",
+    "Modele": "Cable 2.4A S4 BX51",
+    "sum(Quantite)": 300
+  },
+  {
+    "Date création": "2022-12-21",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Sans Cable A303Q",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2022-12-24",
+    "Magasin": 1,
+    "Marque": "Maxfone",
+    "Modele": "M88",
+    "sum(Quantite)": 1050
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Kit Main Iphone HF-18",
+    "sum(Quantite)": 82
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Kit Main Iphone HF-19",
+    "sum(Quantite)": 42
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Kit Main HF-05",
+    "sum(Quantite)": 50
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Kit Main HF-08",
+    "sum(Quantite)": 69
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Kit Main Original",
+    "sum(Quantite)": 300
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Kit Main T4",
+    "sum(Quantite)": 492
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Cable Auxliliaire AX-42",
+    "sum(Quantite)": 148
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Cable Auxliliaire YY-003",
+    "sum(Quantite)": 70
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Kit Main Iphone M80",
+    "sum(Quantite)": 119
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Kit Main Iphone7 BT",
+    "sum(Quantite)": 113
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Kit Main J5",
+    "sum(Quantite)": 270
+  },
+  {
+    "Date création": "2022-12-25",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Bluetooth AirPods Pro",
+    "sum(Quantite)": 92
+  },
+  {
+    "Date création": "2022-12-26",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Chargeur Vooc S4 Original",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2022-12-26",
+    "Magasin": 1,
+    "Marque": "Magsafe",
+    "Modele": "Power Bank A2384",
+    "sum(Quantite)": 40
+  },
+  {
+    "Date création": "2022-12-26",
+    "Magasin": 1,
+    "Marque": "Oraimab",
+    "Modele": "Power Bank 30000mAh K-83",
+    "sum(Quantite)": 115
+  },
+  {
+    "Date création": "2022-12-26",
+    "Magasin": 1,
+    "Marque": "Ace",
+    "Modele": "Zip 3-Mini",
+    "sum(Quantite)": 301
+  },
+  {
+    "Date création": "2022-12-27",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable 2.4 S4 LS441",
+    "sum(Quantite)": 47
+  },
+  {
+    "Date création": "2022-12-27",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable 2.4 Type C LS441",
+    "sum(Quantite)": 77
+  },
+  {
+    "Date création": "2022-12-27",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable S4 LS371",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2022-12-27",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable Type C LS371",
+    "sum(Quantite)": 55
+  },
+  {
+    "Date création": "2022-12-28",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable Type C XS-07",
+    "sum(Quantite)": 1630
+  },
+  {
+    "Date création": "2023-01-03",
+    "Magasin": 1,
+    "Marque": "D-Tech",
+    "Modele": "T1",
+    "sum(Quantite)": 300
+  },
+  {
+    "Date création": "2023-01-03",
+    "Magasin": 1,
+    "Marque": "D-Tech",
+    "Modele": "T2",
+    "sum(Quantite)": 90
+  },
+  {
+    "Date création": "2023-01-03",
+    "Magasin": 1,
+    "Marque": "D-Tech",
+    "Modele": "D6-Mini",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2023-01-03",
+    "Magasin": 1,
+    "Marque": "D-Tech",
+    "Modele": "DT10 2-32Gb",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-03",
+    "Magasin": 8,
+    "Marque": "Wise-Tech",
+    "Modele": "A1N",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-04",
+    "Magasin": 1,
+    "Marque": "Ace",
+    "Modele": "Zip 3",
+    "sum(Quantite)": 1130
+  },
+  {
+    "Date création": "2023-01-04",
+    "Magasin": 1,
+    "Marque": "Ace",
+    "Modele": "Zip 3+",
+    "sum(Quantite)": 950
+  },
+  {
+    "Date création": "2023-01-04",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Auto Iphone C17",
+    "sum(Quantite)": 23
+  },
+  {
+    "Date création": "2023-01-04",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Auto Type C C17",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-08",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable Iphone LS491",
+    "sum(Quantite)": 32
+  },
+  {
+    "Date création": "2023-01-08",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable S4 LS491",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-08",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable Type C LS491",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-08",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Auto S4 C17",
+    "sum(Quantite)": 16
+  },
+  {
+    "Date création": "2023-01-08",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable 2M Iphone LS35",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-09",
+    "Magasin": 1,
+    "Marque": "Ooredoo",
+    "Modele": "100 Da",
+    "sum(Quantite)": 0
+  },
+  {
+    "Date création": "2023-01-09",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable Fast 3.8A 3In1 LC130",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Cable 3In1 2.4A U98",
+    "sum(Quantite)": 7
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Cable 3A 4In1 U86",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Cable 1.5M Type C To Type C U100",
+    "sum(Quantite)": 6
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Cable 2A Type C U90",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Otg S4 XS-501",
+    "sum(Quantite)": 63
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Modulateur G37",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Modulateur M30",
+    "sum(Quantite)": 26
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Modulateur M4",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Modulateur M2",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Modulateur G7",
+    "sum(Quantite)": 26
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Kit Main AKG S10",
+    "sum(Quantite)": 70
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Kit Main MH156",
+    "sum(Quantite)": 65
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Chargeur Super Vooc S4 65W QC01",
+    "sum(Quantite)": 60
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Chargeur Super Vooc Type C 65W QC01",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Otg Type C",
+    "sum(Quantite)": 626
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Usb Bluetooth Dogle",
+    "sum(Quantite)": 45
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Tayton",
+    "Modele": "Nano Sim",
+    "sum(Quantite)": 510
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Bage Telephone",
+    "sum(Quantite)": 1020
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Kit Main T4 Copie",
+    "sum(Quantite)": 400
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Gfuz",
+    "Modele": "Cable Auxliliaire AX-35",
+    "sum(Quantite)": 119
+  },
+  {
+    "Date création": "2023-01-10",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Cable 2A S4 U90",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome A12",
+    "sum(Quantite)": 45
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome Reno7-5G",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome Note11",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A33-5G",
+    "sum(Quantite)": 24
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Chargeur 3.5A S4 S-200",
+    "sum(Quantite)": 105
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Kit Main HP02",
+    "sum(Quantite)": 75
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Prise Fast 15W S10+",
+    "sum(Quantite)": 107
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Prise Pd To Iphone 20W 3 Pin",
+    "sum(Quantite)": 12
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Chargeur Iphone 13-Pro Max A2347",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Oraimab",
+    "Modele": "Cable 2A S4 OCD-M53",
+    "sum(Quantite)": 110
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C33",
+    "sum(Quantite)": 3493
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C30S",
+    "sum(Quantite)": 820
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome 10",
+    "sum(Quantite)": 692
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome A77S",
+    "sum(Quantite)": 770
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A04",
+    "sum(Quantite)": 920
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Infinix",
+    "Modele": "Silicone Gome Hot12",
+    "sum(Quantite)": 660
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Infinix",
+    "Modele": "Silicone Gome Hot12-Play",
+    "sum(Quantite)": 680
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome A17",
+    "sum(Quantite)": 1610
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome A17K",
+    "sum(Quantite)": 1853
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome A1+",
+    "sum(Quantite)": 3385
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Silicone Gome A1",
+    "sum(Quantite)": 3390
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome Reno 8",
+    "sum(Quantite)": 650
+  },
+  {
+    "Date création": "2023-01-12",
+    "Magasin": 1,
+    "Marque": "Infinix",
+    "Modele": "Silicone Gome Hot12I",
+    "sum(Quantite)": 600
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A21S",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome A04S",
+    "sum(Quantite)": 40
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome J7 Core",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-11",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Silicone Gome J4",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2023-01-16",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Silicone Gome C30",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Lenovo",
+    "Modele": "Bluetooth Live Pods LP40",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Cable Type C To Iphone 20W",
+    "sum(Quantite)": 48
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Kit Main Iphone 7 A1748",
+    "sum(Quantite)": 22
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Apple",
+    "Modele": "Prise Iphone 20W A2347",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Asmr",
+    "Modele": "Chargeur D880 AS-01",
+    "sum(Quantite)": 130
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Asmr",
+    "Modele": "Chargeur N70 AS-01",
+    "sum(Quantite)": 115
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Asmr",
+    "Modele": "Chargeur S4 AS-01",
+    "sum(Quantite)": 130
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Cable S4 2.1 D287",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Cable Type C 10In1 6A",
+    "sum(Quantite)": 100
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Cable Type C To Type C GH-39",
+    "sum(Quantite)": 50
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Chargeur S4 2.1A",
+    "sum(Quantite)": 100
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Kit Main Logo",
+    "sum(Quantite)": 215
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Cable S4 3A",
+    "sum(Quantite)": 140
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Oppo",
+    "Modele": "Kit Main R15",
+    "sum(Quantite)": 60
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "RealMe",
+    "Modele": "Cable Type C",
+    "sum(Quantite)": 57
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Realme/Huawei/Samsung/Oppo",
+    "Modele": "Kit Main Varie",
+    "sum(Quantite)": 220
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Chargeur 3.0 Type C QC3",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Chargeur 45W Type C To Type C",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Prise 25W Super Fast S21",
+    "sum(Quantite)": 40
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Samsung",
+    "Modele": "Prise 25W Type C",
+    "sum(Quantite)": 13
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Suport Auto CF-101",
+    "sum(Quantite)": 34
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Suport Tripod",
+    "sum(Quantite)": 26
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Tony",
+    "Modele": "Chargeur Standard",
+    "sum(Quantite)": 50
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Cable 2.1A S4 CL109",
+    "sum(Quantite)": 75
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Cable 2.1A Type C CL109",
+    "sum(Quantite)": 60
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Cable 2.4A S4 CL122",
+    "sum(Quantite)": 70
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Cable S4 CL101",
+    "sum(Quantite)": 50
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur Auto 2uSB 2.4A XC303",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur S4 2.1A CH-218",
+    "sum(Quantite)": 31
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur S4 2.1A CH-224",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur S4 2.4A CH-201",
+    "sum(Quantite)": 31
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur S4 2.4A CH-220",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur Type C 2.1A CH-224",
+    "sum(Quantite)": 25
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur Type C 2.4A CH-201",
+    "sum(Quantite)": 30
+  },
+  {
+    "Date création": "2023-01-19",
+    "Magasin": 1,
+    "Marque": "Xscoot",
+    "Modele": "Chargeur Type C 2.4A CH-220",
+    "sum(Quantite)": 35
+  },
+  {
+    "Date création": "2023-01-22",
+    "Magasin": 1,
+    "Marque": "Phomemo",
+    "Modele": "Imprimant M110",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2023-01-22",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Silicone Gome Iphone 14",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2023-01-22",
+    "Magasin": 8,
+    "Marque": "Apple",
+    "Modele": "Silicone Gome Iphone 14-Pro Max",
+    "sum(Quantite)": 5
+  },
+  {
+    "Date création": "2023-01-22",
+    "Magasin": 8,
+    "Marque": "Oppo",
+    "Modele": "Silicone Gome A16S",
+    "sum(Quantite)": 19
+  },
+  {
+    "Date création": "2023-01-23",
+    "Magasin": 9,
+    "Marque": "Samsung",
+    "Modele": "A53-5G 8-128Gb",
+    "sum(Quantite)": 1
+  },
+  {
+    "Date création": "2023-01-23",
+    "Magasin": 9,
+    "Marque": "Samsung",
+    "Modele": "A33-5G 8-128Gb",
+    "sum(Quantite)": -2
+  },
+  {
+    "Date création": "2023-01-23",
+    "Magasin": 8,
+    "Marque": "Ldnio",
+    "Modele": "Cable Type C To Type C LC102",
+    "sum(Quantite)": 2
+  },
+  {
+    "Date création": "2023-01-24",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Prise Z1",
+    "sum(Quantite)": 140
+  },
+  {
+    "Date création": "2023-01-25",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Type C To Iphone A1405C",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-25",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur 2.4A Sans Cable A2219",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-25",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Type C To Iphone A2316C",
+    "sum(Quantite)": 20
+  },
+  {
+    "Date création": "2023-01-25",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Chargeur Iphone A321",
+    "sum(Quantite)": 10
+  },
+  {
+    "Date création": "2023-01-25",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Casque Gamer BT29 / BT31",
+    "sum(Quantite)": 3
+  },
+  {
+    "Date création": "2023-01-25",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Suport Moto H-ZX203",
+    "sum(Quantite)": 4
+  },
+  {
+    "Date création": "2022-09-06",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Cable 2M Type C LS442",
+    "sum(Quantite)": -18
+  },
+  {
+    "Date création": "2022-09-08",
+    "Magasin": 1,
+    "Marque": "Redmi",
+    "Modele": "Bluetooth AirDots-2",
+    "sum(Quantite)": -2
+  },
+  {
+    "Date création": "2022-10-15",
+    "Magasin": 1,
+    "Marque": "Hoco",
+    "Modele": "Bluetooth EW04",
+    "sum(Quantite)": -1
+  },
+  {
+    "Date création": "2022-10-22",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Y7 Prime 2019",
+    "sum(Quantite)": -1
+  },
+  {
+    "Date création": "2022-10-22",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Mate Pad T L09 2-32Gb",
+    "sum(Quantite)": -8
+  },
+  {
+    "Date création": "2022-10-22",
+    "Magasin": 1,
+    "Marque": "Huawei",
+    "Modele": "Mate Pad T W09 2-32Gb",
+    "sum(Quantite)": -5
+  },
+  {
+    "Date création": "2022-10-22",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth G30BL",
+    "sum(Quantite)": -1
+  },
+  {
+    "Date création": "2022-10-22",
+    "Magasin": 8,
+    "Marque": "Awei",
+    "Modele": "Bluetooth T21",
+    "sum(Quantite)": -1
+  },
+  {
+    "Date création": "2022-11-09",
+    "Magasin": 1,
+    "Marque": "Smartec",
+    "Modele": "Atractivo",
+    "sum(Quantite)": -1
+  },
+  {
+    "Date création": "2022-11-10",
+    "Magasin": 1,
+    "Marque": "Aucune",
+    "Modele": "Wifi Routeur MF670",
+    "sum(Quantite)": -1
+  },
+  {
+    "Date création": "2023-01-08",
+    "Magasin": 1,
+    "Marque": "Ldnio",
+    "Modele": "Prise Z4",
+    "sum(Quantite)": -15
+  }
+]

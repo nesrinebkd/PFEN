@@ -1,0 +1,25 @@
+{
+  "columns": {
+    "Date création": {
+      "type": "date",
+      "label": "Date creation"
+    },
+    "Magasin": {
+      "type": "varchar",
+      "label": "Magasin"
+    },
+    "Marque": {
+      "type": "varchar",
+      "label": "Marque"
+    },
+    "Modele": {
+      "type": "varchar",
+
+      "label": "Modele"
+    },
+    "sum(Quantite)": {
+      "type": "varchar",
+      "label": "sum(Quantite)"
+    }
+  }
+}
