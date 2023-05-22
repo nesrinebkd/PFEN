@@ -1,0 +1,41 @@
+{
+  "columns": {
+    "Year": {
+      "type": "varchar",
+      "label": "Year"
+    },
+    "Name": {
+      "type": "varchar",
+      "label": "Name"
+    },
+    "Miles_per_Gallon": {
+      "type": "varchar",
+      "label": "Miles_per_Gallon"
+    },
+    "Cylinders": {
+      "type": "varchar",
+
+      "label": "Cylinders"
+    },
+    "Displacement": {
+      "type": "varchar",
+      "label": "Displacement"
+    },
+    "Horsepower": {
+      "type": "varchar",
+      "label": "Horsepower"
+    },
+    "Weight_in_lbs": {
+      "type": "varchar",
+      "label": "Weight_in_lbs"
+    },
+    "Acceleration": {
+      "type": "varchar",
+      "label": "Acceleration"
+    },
+    "Origin": {
+      "type": "varchar",
+      "label": "Origin"
+    }
+  }
+}

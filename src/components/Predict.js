@@ -7,13 +7,11 @@ import { predictResult } from '../utils/train';
 import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
-import InputLabel from '@mui/material/InputLabel';
-import MenuItem from '@mui/material/MenuItem';
-import FormControl from '@mui/material/FormControl';
-import Select from '@mui/material/Select';
+
 function Predict({ x, y, modelName }) {
   const [newData, setNewData] = React.useState();
   const [result, setResult] = React.useState();
+
   async function handlePredict(e) {
     console.log(newData);
     let arr = [];
@@ -24,56 +22,7 @@ function Predict({ x, y, modelName }) {
 
     setResult(await predictResult(modelName, arr));
   }
-  const getLables = (labels) => {};
-  function menuItems(x) {
-    return Object.keys(x).map((label) => (
-      <MenuItem value={label} key={label}>
-        {/* {label + ':' + schema[label].type} */}
-        {label}
-      </MenuItem>
-    ));
-  }
-  function formPredict(x) {
-    console.log('ranahna');
-    let tab = [];
-    for (let i = 0; i < x.length; i++) {
-      if (x[i].hasOwnProperty('labels')) {
-        tab.push(
-          <FormControl fullWidth sx={{ marginTop: 3 }}>
-            <InputLabel id="demo-simple-select-label">{x[i].name} </InputLabel>
-            <Select
-              labelId="demo-simple-select-label"
-              id="demo-simple-select"
-              value={x[i].name}
-              onChange={(e) => {
-                const { name, value } = e.target;
-                setNewData({ ...newData, [name]: value });
-              }}
-            >
-              {menuItems(x[i].labels)}
-            </Select>
-          </FormControl>
-        );
-      } else {
-        tab.push(
-          <TextField
-            label={x[i].name}
-            name={x[i].name}
-            // value={newData[row.name]}
-            variant="outlined"
-            fullWidth
-            required
-            sx={{ marginTop: 3 }}
-            onChange={(e) => {
-              const { name, value } = e.target;
-              setNewData({ ...newData, [name]: value });
-            }}
-          />
-        );
-      }
-    }
-    return <Box>{tab}</Box>;
-  }
+
   return (
     <Box>
       <Typography sx={{ marginTop: 5, marginRight: 7, marginBottom: 2 }}>

@@ -1,11 +1,10 @@
 import * as dfd from 'danfojs';
 import * as tf from '@tensorflow/tfjs';
 
-export const cleanData = async (data, x, y) => {
+export const cleanData = async (data, x, y, learningtyp = '') => {
   //shuffleData
 
-  console.log(data);
-
+  console.log(x, y, learningtyp);
   const df = new dfd.DataFrame(data);
   // Extract the needed data for the learning to remove the null rows
   // 1- put x and y in one array columns
@@ -14,6 +13,7 @@ export const cleanData = async (data, x, y) => {
     columns.push(x[i]);
   }
   columns.push(y);
+  console.log(columns);
   //2- get the data and remove the null rows
   const newDf = dataNeeded(df, columns);
   let df_drop = newDf.dropNa({ axis: 1 });
@@ -28,7 +28,7 @@ export const cleanData = async (data, x, y) => {
   let type;
   let serie = ytrain.nUnique(0);
   let a = serie.values[0];
-  if (a === 2) {
+  if (learningtyp === 'Binary Classification' || a === 2) {
     //label encoding
     type = 'B_Classification';
     let ylabel = labelEncoding(ytrain, y.name);
@@ -38,8 +38,20 @@ export const cleanData = async (data, x, y) => {
       labels: ylabel,
       learningType: 'Binary_Classification',
     };
-  } else if ((a > 2 && a < 12) || ytrain.ctypes.values[0] === 'string') {
+  } else if (
+    learningtyp === 'Multi-class Classification' ||
+    (learningtyp === '' &&
+      ((a > 2 && a < 12) || ytrain.ctypes.values[0] === 'string'))
+  ) {
+    console.log('Multi-class Classification');
     type = 'MultiClass_Classification';
+    // json
+    let dfDropJson = dfd.toJSON(df_drop);
+    console.log(dfDropJson);
+    //shuffle data
+    dfDropJson = shuffle(dfDropJson);
+    df_drop = new dfd.DataFrame(dfDropJson);
+    ytrain = dataNeeded(df_drop, Y);
     let oneHotResult = oneHotEncodingX(ytrain, [y.name]);
     ytrain = oneHotResult.dum_df;
 
@@ -50,9 +62,12 @@ export const cleanData = async (data, x, y) => {
       labels: oneHotResult.labels,
     };
   } else if (
-    ytrain.ctypes.values[0] === 'int32' ||
-    ytrain.ctypes.values[0] === 'float32'
+    learningtyp === 'Regression' ||
+    (learningtyp === '' &&
+      (ytrain.ctypes.values[0] === 'int32' ||
+        ytrain.ctypes.values[0] === 'float32'))
   ) {
+    console.log('regression here');
     type = 'Regression';
     let arr = [];
     for (let i = 0; i < x.length; i++) {
@@ -78,7 +93,9 @@ export const cleanData = async (data, x, y) => {
   //prepare the new X and y train
 
   Xtrain = dataNeeded(df_drop, x);
-  let newXtrain = await handleDates(dfd.toJSON(Xtrain), x);
+  // let newXtrain = await handleDates(dfd.toJSON(Xtrain), x);
+
+  let newXtrain = await intCodMonthDay(dfd.toJSON(Xtrain), x);
   console.log(newXtrain.result);
   Xtrain = new dfd.DataFrame(newXtrain.result);
   Xtrain.print();
@@ -96,12 +113,12 @@ export const cleanData = async (data, x, y) => {
 
   // split the data :
   // 60% training
-  let indexVal = Xtrain.shape[0] * 0.6;
+  let indexVal = Xtrain.shape[0] * 0.8;
   let subXtrain = Xtrain.iloc({ rows: [` 0: ${indexVal}`] });
   let subYtrain = ytrain.iloc({ rows: [` 0: ${indexVal}`] });
 
   // 20% validation
-  let indexTest = Xtrain.shape[0] * 0.2 + indexVal;
+  let indexTest = Xtrain.shape[0] * 0.1 + indexVal;
   let Xval = Xtrain.iloc({ rows: [` ${indexVal}: ${indexTest}`] });
   let Yval = ytrain.iloc({ rows: [` ${indexVal}: ${indexTest}`] });
 
@@ -127,7 +144,7 @@ export const cleanData = async (data, x, y) => {
     subYtrain = scaler.transform(subYtrain);
     Yval = scaler.transform(Yval);
     YTest = scaler.transform(YTest);
-
+    y.name = y.name.split('_sum')[0];
     y = {
       name: y.name,
       type: ytrain.ctypes.values[0],
@@ -329,8 +346,6 @@ const handleDates = async (data, x) => {
   let newData = [];
   let dateType = [];
 
-  console.log(dateType);
-
   for (let i = 0; i < data.length; i++) {
     newData.push({});
   }
@@ -402,3 +417,45 @@ const getSkewnessKurtosis = (df) => {
     alert('Warning : your data is Asymetric , this can lead to poor results');
   }
 };
+
+//
+
+const intCodMonthDay = async (data, x) => {
+  let dataDate = {};
+  let newData = [];
+  let dateType = [];
+
+  for (let i = 0; i < data.length; i++) {
+    newData.push({});
+  }
+  for (let i = 0; i < x.length; i++) {
+    if (x[i].type === 'date') {
+      dataDate[x[i].name] = [];
+      for (let j = 0; j < data.length; j++) {
+        let k = new Date(data[j][x[i].name]);
+        // console.log(k.toISOString().slice(0, 10));
+        dataDate[x[i].name].push(k.toISOString().slice(0, 10));
+      }
+
+      dateType.push({ name: x[i].name, min: '2000-01-01' });
+
+      for (let k = 0; k < data.length; k++) {
+        var min = new Date(`${data[k][x[i].name].split('-')[0]}-01-01`);
+        var date = new Date(data[k][x[i].name]);
+        var mini = new Date(min);
+        newData[k][x[i].name + '_grp'] = (date - mini) / (1000 * 60 * 60 * 24);
+      }
+    }
+  }
+  console.log(newData);
+  console.log(dateType);
+  // concatenate
+  var result = [];
+  for (let i = 0; i < data.length; i++) {
+    result[i] = { ...data[i], ...newData[i] };
+  }
+
+  return { result, dateType };
+};
+
+const splitDate = async (data, x) => {};

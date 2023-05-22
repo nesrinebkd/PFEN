@@ -25,12 +25,18 @@ import Typography from '@mui/material/Typography';
 import { cleanData } from '../utils/clean';
 import { createModel } from '../utils/train';
 import { saveModel } from '../utils/train';
+import Link from '@mui/material/Link';
 import MLModels from './MLModels';
 import Predict from './Predict';
 const steps = [
   'Select a column to predict and data to study',
   'Choose a model',
   'Name and train',
+];
+const learningTypes = [
+  'Binary Classification',
+  'Multi-class Classification',
+  'Regression',
 ];
 
 function BuildModels({ Schema, data }) {
@@ -43,14 +49,62 @@ function BuildModels({ Schema, data }) {
   const [model, setModel] = React.useState('');
   const [result, setResult] = React.useState({});
   const [trained, setIstrained] = React.useState(false);
+  const [changeType, ischangeType] = React.useState(false);
+  const [trainAgain, setTrainAgain] = React.useState(false);
   const [finishTrainedProcess, setFinishTrainedProcess] = React.useState({});
+  const [optimizer, setOptimizer] = React.useState('adam');
+  const [learningRate, setLearningRate] = React.useState(0.1);
+  const [batchsize, setBatchSize] = React.useState(32);
+  const [epochs, setEpochs] = React.useState(100);
+  const prevX = usePrevious(x);
+  const prevY = usePrevious(y);
   const historyRef1 = useRef(null);
   const historyRef2 = useRef(null);
   // const [Data, setData] = React.useState(data);
+  function usePrevious(value) {
+    console.log(value);
+    const ref = useRef();
+    useEffect(() => {
+      ref.current = value;
+    }, [value]);
+    return ref.current;
+  }
 
+  const trainAgainfunc = async (e) => {
+    setIstrained(false);
+    let trainProcess2 = await createModel(
+      batchsize,
+      epochs,
+      optimizer,
+      learningRate,
+      result.Xtrain,
+      result.ytrain,
+      result.XVal,
+      result.YVal,
+      result.XTest,
+      result.YTest,
+      y.learningType,
+      historyRef1.current,
+      historyRef2.current
+    );
+    setFinishTrainedProcess(trainProcess2);
+    setIstrained(true);
+  };
   let i = 0;
   const labels = Object.keys(schema);
 
+  const handleTypeChange = async (e) => {
+    console.log(e.target.value);
+    let res = await cleanData(data, x, y, e.target.value);
+    let out = res.ylabel;
+    let col = res.xcolumns;
+    setResult(res);
+    // console.log();
+    setX(col);
+    setY(out);
+    i = 0;
+    // setActiveStep((prevActiveStep) => prevActiveStep + 1);
+  };
   const handleNext = async () => {
     if (activeStep === 0) {
       setyError(false);
@@ -72,10 +126,15 @@ function BuildModels({ Schema, data }) {
         i = 0;
         setActiveStep((prevActiveStep) => prevActiveStep + 1);
       }
-    } else if (activeStep === 1) {
+    } else if (activeStep === 1 || changeType === true) {
       await setActiveStep((prevActiveStep) => prevActiveStep + 1);
+      console.log(x, y);
       console.log(y.learningType);
       let trainProcess = await createModel(
+        batchsize,
+        epochs,
+        optimizer,
+        learningRate,
         result.Xtrain,
         result.ytrain,
         result.XVal,
@@ -228,66 +287,204 @@ function BuildModels({ Schema, data }) {
                 <FormGroup>{getLablesXceptY(labels)}</FormGroup>
               </Box>
             )}
-            {isCustomized === false && activeStep === 1 && (
-              <Box>
-                <Typography sx={{ mb: 1 }}>
-                  These are the X features you selected{' '}
-                </Typography>
-                <TableContainer component={Paper}>
-                  <Table sx={{ minWidth: 650 }} aria-label="simple table">
-                    <TableHead>
-                      <TableRow>
-                        <TableCell component="th" scope="row">
-                          Feature
-                        </TableCell>
-                        <TableCell component="th" scope="row">
-                          Name
-                        </TableCell>
-                        <TableCell component="th" scope="row">
-                          Type
-                        </TableCell>
-                      </TableRow>
-                    </TableHead>
-                    <TableBody>
-                      {x.map((row) => (
-                        <TableRow
-                          key={row.name}
-                          sx={{
-                            '&:last-child td, &:last-child th': { border: 0 },
-                          }}
-                        >
+            {isCustomized === false &&
+              changeType === false &&
+              activeStep === 1 && (
+                <Box>
+                  <Typography sx={{ mb: 1 }}>
+                    These are the X features you selected{' '}
+                  </Typography>
+                  <TableContainer component={Paper}>
+                    <Table sx={{ minWidth: 650 }} aria-label="simple table">
+                      <TableHead>
+                        <TableRow>
                           <TableCell component="th" scope="row">
-                            {i++}
+                            Feature
                           </TableCell>
-                          <TableCell>{row.name}</TableCell>
-                          <TableCell>{row.type}</TableCell>
+                          <TableCell component="th" scope="row">
+                            Name
+                          </TableCell>
+                          <TableCell component="th" scope="row">
+                            Type
+                          </TableCell>
                         </TableRow>
-                      ))}
-                    </TableBody>
-                  </Table>
-                </TableContainer>
-                <Typography sx={{ mt: 2, mb: 1 }}>
-                  Based on the column you selected as an output, we recommand a{' '}
-                  {y.learningType} model .
-                </Typography>
-                <Box textAlign="center">
-                  <Button
-                    onClick={handleCustomize}
-                    sx={{ mr: 1, mt: 2 }}
-                    variant="outlined"
-                  >
-                    If you want to customize the neural network press here{' '}
-                  </Button>
+                      </TableHead>
+                      <TableBody>
+                        {x.map((row) => (
+                          <TableRow
+                            key={row.name}
+                            sx={{
+                              '&:last-child td, &:last-child th': { border: 0 },
+                            }}
+                          >
+                            <TableCell component="th" scope="row">
+                              {i++}
+                            </TableCell>
+                            <TableCell>{row.name}</TableCell>
+                            <TableCell>{row.type}</TableCell>
+                          </TableRow>
+                        ))}
+                      </TableBody>
+                    </Table>
+                  </TableContainer>
+                  <Typography sx={{ mt: 2, mb: 1 }}>
+                    Based on the column you selected as an output, we recommand
+                    a {y.learningType} model , if this is not what you searching
+                    for you can change the learning type from{' '}
+                    <Link
+                      component="button"
+                      variant="body2"
+                      onClick={() => {
+                        setX(prevX);
+                        console.log(prevY);
+                        setY(prevY);
+                        ischangeType(true);
+                        console.log(x, y);
+                      }}
+                    >
+                      HERE
+                    </Link>
+                  </Typography>
+                  <Box textAlign="center">
+                    <Button
+                      onClick={handleCustomize}
+                      sx={{ mr: 1, mt: 2 }}
+                      variant="outlined"
+                    >
+                      If you want to customize the neural network press here{' '}
+                    </Button>
+                  </Box>
                 </Box>
+              )}
+            {changeType === true && activeStep === 1 && (
+              <Box>
+                <Typography>Select manually your learning type : </Typography>
+                {learningTypes.map((row) => (
+                  <Button
+                    value={row}
+                    variant="outlined"
+                    color="primary"
+                    sx={{ marginLeft: 0.5, marginRight: 0.5 }}
+                    onClick={handleTypeChange}
+                  >
+                    {row}
+                  </Button>
+                ))}
               </Box>
             )}
             {isCustomized === true && activeStep === 1 && <Box>hello</Box>}
             {activeStep === 2 && (
               <Box>
+                {' '}
+                {trained === true && (
+                  <Box>
+                    <FormControl
+                      variant="filled"
+                      size="string"
+                      sx={{ mr: 2, fontSize: 10, size: 'string' }}
+                    >
+                      <InputLabel
+                        id="demo-simple-select-label"
+                        sx={{ mb: 1, fontSize: 15 }}
+                      >
+                        Optimizer :{' '}
+                      </InputLabel>
+                      <Select
+                        labelId="demo-simple-select-label"
+                        id="demo-simple-select"
+                        value={optimizer}
+                        label="optimizer"
+                        error={yError}
+                        onChange={(e) => setOptimizer(e.target.value)}
+                      >
+                        <MenuItem value="adam" key="adam">
+                          adam
+                        </MenuItem>
+                        <MenuItem value="sgd" key="sgd">
+                          sgd
+                        </MenuItem>
+                      </Select>
+                    </FormControl>
+                    <FormControl
+                      variant="filled"
+                      size="string"
+                      sx={{ mr: 2, fontSize: 10, size: 'string' }}
+                    >
+                      <InputLabel
+                        id="demo-simple-select-label"
+                        sx={{ mr: 2, ml: 2, mb: 1, fontSize: 15 }}
+                      >
+                        Learning Rate:{' '}
+                      </InputLabel>
+                      <TextField
+                        value={learningRate}
+                        name={learningRate}
+                        id="outlined-basic"
+                        variant="outlined"
+                        onChange={(e) => setLearningRate(e.target.value)}
+                      />
+                    </FormControl>
+                    <FormControl
+                      variant="filled"
+                      size="string"
+                      sx={{ mr: 2, fontSize: 10, size: 'string' }}
+                    >
+                      <InputLabel
+                        id="demo-simple-select-label"
+                        sx={{ mb: 1, fontSize: 15 }}
+                      >
+                        batch Size :{' '}
+                      </InputLabel>
+                      <Select
+                        labelId="demo-simple-select-label"
+                        id="demo-simple-select"
+                        value={batchsize}
+                        label="batchSize"
+                        onChange={(e) => setBatchSize(e.target.value)}
+                      >
+                        <MenuItem value={32} key={32}>
+                          32
+                        </MenuItem>
+                        <MenuItem value={64} key={64}>
+                          64
+                        </MenuItem>
+                        <MenuItem value={128} key={128}>
+                          128
+                        </MenuItem>
+                        <MenuItem value={256} key={256}>
+                          256
+                        </MenuItem>
+                      </Select>
+                    </FormControl>
+                    <FormControl
+                      variant="filled"
+                      size="string"
+                      sx={{ mr: 2, fontSize: 10, size: 'string' }}
+                    >
+                      <InputLabel
+                        id="demo-simple-select-label"
+                        sx={{ mr: 2, mb: 1, fontSize: 15 }}
+                      >
+                        Epochs:{' '}
+                      </InputLabel>
+                      <TextField
+                        id="outlined-basic"
+                        variant="outlined"
+                        onChange={(e) => setEpochs(e.target.value)}
+                      />
+                    </FormControl>
+                    <br />
+                    <br />
+                    <Button onClick={trainAgainfunc} variant="outlined">
+                      Retrain
+                    </Button>
+                  </Box>
+                )}
                 <Box>
                   <Box ref={historyRef1}></Box>
                   <Box ref={historyRef2}></Box>
                 </Box>
+                <Box sx={{ flex: '1 1 auto' }} />
                 <Typography>Name :</Typography>
                 <TextField
                   label="Name the Model"

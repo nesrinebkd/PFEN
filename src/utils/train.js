@@ -7,6 +7,10 @@ import { DecisionTreeRegressor } from 'scikitjs';
 sk.setBackend(tf);
 
 export const createModel = async (
+  batchsize,
+  epochs,
+  optimizer = 'adam',
+  learningRate = 0.1,
   inputs,
   output,
   valinputs,
@@ -17,6 +21,7 @@ export const createModel = async (
   elementA,
   elementB
 ) => {
+  console.log(optimizer, learningRate);
   sk.setBackend(tf);
   // Xtrain , ytrain
   let Xtrain = new dfd.DataFrame(inputs);
@@ -50,12 +55,13 @@ export const createModel = async (
   // DecisionTree(Xtrain, ytrain, XVal, yVal, XTest, yTest);
   // Create a sequential model
   const model = tf.sequential();
-  console.log(Xtrain.shape[1]);
+  console.log(type);
   // Add a single input layer
+
   model.add(
     tf.layers.dense({
       inputShape: Xtrain.shape[1],
-      units: Xtrain.shape[1],
+      units: 64,
       useBias: true,
       activation: 'relu',
       kernelInitializer: 'heNormal',
@@ -65,8 +71,16 @@ export const createModel = async (
   let result;
   if (type === 'Binary_Classification') {
     addLayers(model, ytrain.shape[1], 'sigmoid');
-    compileModel(model, 'binaryCrossentropy', ['accuracy']);
+    compileModel(
+      model,
+      'binaryCrossentropy',
+      ['accuracy'],
+      optimizer,
+      learningRate
+    );
     trainLogs = await fitModel(
+      batchsize,
+      epochs,
       Xtrain,
       ytrain,
       XVal,
@@ -92,8 +106,16 @@ export const createModel = async (
   } else if (type === 'MultiClass_Classification') {
     console.log(ytrain.shape[1]);
     addLayers(model, ytrain.shape[1], 'softmax');
-    compileModel(model, 'categoricalCrossentropy', ['accuracy']);
+    compileModel(
+      model,
+      'categoricalCrossentropy',
+      ['accuracy'],
+      optimizer,
+      learningRate
+    );
     trainLogs = await fitModel(
+      batchsize,
+      epochs,
       Xtrain,
       ytrain,
       XVal,
@@ -109,13 +131,21 @@ export const createModel = async (
     console.log(trainLogs);
   } else {
     addLayers(model, ytrain.shape[1], 'linear');
-    compileModel(model, 'meanAbsoluteError', ['MAE']); // a revoir
+    compileModel(
+      model,
+      'meanSquaredError',
+      [r2Score, 'mse'],
+      optimizer,
+      learningRate
+    ); // a revoir
     console.log('here');
     console.log(Xtrain.shape[0]);
     console.log(ytrain.shape[0]);
     console.log(XVal.shape[0]);
     console.log(yVal.shape[0]);
     trainLogs = await fitModel(
+      batchsize,
+      epochs,
       Xtrain,
       ytrain,
       XVal,
@@ -146,21 +176,29 @@ export const createModel = async (
 // add Layers
 function addLayers(model, shape, activation) {
   // model.add(tf.layers.dense({ units: 64, activation: 'relu' }));
-  // model.add(tf.layers.dense({ units: 64, activation: 'relu' }));
+  // model.add(tf.layers.dense({ units: 8, activation: 'relu' }));
 
   model.add(tf.layers.dense({ units: shape, activation: activation }));
 }
 // compile Model
-function compileModel(model, loss, metrics) {
+function compileModel(model, loss, metrics, optimizer, learningRate) {
+  if (optimizer === 'adam') {
+    optimizer = tf.train.sgd(learningRate);
+  } else {
+    optimizer = tf.train.sgd(learningRate);
+  }
+
   //rember meterics should be an array
   model.compile({
-    optimizer: 'sgd',
+    optimizer: optimizer,
     loss: loss,
     metrics: metrics,
   });
 }
 // fit Model
 async function fitModel(
+  batchsize,
+  epochs,
   Xtrain,
   ytrain,
   XVal,
@@ -174,8 +212,8 @@ async function fitModel(
   console.log(type);
   const trainLogs = [];
   await model.fit(Xtrain, ytrain, {
-    batchSize: 50,
-    epochs: 100,
+    batchSize: batchsize,
+    epochs: epochs,
     validationData: [XVal, yVal],
     shuffle: true,
 
@@ -230,8 +268,11 @@ export async function predictResult(modelName, tab) {
 
       tab[i] = (tab[i] - x[i].minSacle) / (x[i].maxScale - x[i].minSacle);
     } else if (x[i].type === 'date') {
+      // when using the month-day encoding
+      let min = new Date(`${tab[i].split('-')[0]}-01-01`);
+      min = new Date(min);
       let datei = new Date(tab[i]);
-      let min = new Date(x[i].min);
+      // with handle date : let min = new Date(x[i].min);
       let numberofday = (datei - min) / (1000 * 60 * 60 * 24);
       console.log(numberofday);
       parseInt(numberofday);
@@ -280,8 +321,10 @@ export async function predictResult(modelName, tab) {
     return retour;
   }
 }
-
-function predictXTest(model, Xtest, Ytest) {
-  let Ypred = model.predict(Xtest);
-  Ypred.print();
+function r2Score(yTrue, yPred) {
+  const yMean = tf.mean(yTrue);
+  const totalSumOfSquares = tf.sum(tf.square(tf.sub(yTrue, yMean)));
+  const residualSumOfSquares = tf.sum(tf.square(tf.sub(yTrue, yPred)));
+  const r2 = tf.sub(1.0, tf.div(residualSumOfSquares, totalSumOfSquares));
+  return r2;
 }

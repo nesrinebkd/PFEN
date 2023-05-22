@@ -1,0 +1,44 @@
+{
+  "columns": {
+    "DateCreation": {
+      "type": "date",
+      "label": "Date création",
+      "suffix": "",
+      "filterable": false,
+      "icon": "date_range",
+      "length": 2
+    },
+    "Marque": {
+      "type": "varchar(50)",
+      "label": "Marque",
+      "suffix": "",
+      "filterable": false,
+      "icon": "printerest",
+      "length": 2
+    },
+    "Couleur": {
+      "type": "varchar(50)",
+      "label": "Couleur",
+      "suffix": "",
+      "filterable": false,
+      "icon": "color",
+      "length": 1
+    },
+    "Quantite": {
+      "type": "decimal(12,2)",
+      "label": "Quantité",
+      "suffix": "",
+      "filterable": false,
+      "icon": "grain",
+      "length": 1
+    },
+    "PU": {
+      "type": "decimal(10,2)",
+      "label": "Prix unitaire",
+      "suffix": " da",
+      "filterable": false,
+      "icon": "attach_money",
+      "length": 1
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "columns": {
+    "PassengerId": {
+      "type": "varchar",
+      "label": "PassengerId"
+    },
+    "Survived": {
+      "type": "varchar",
+      "label": "Survived"
+    },
+    "Pclass": {
+      "type": "varchar",
+      "label": "Pclass"
+    },
+    "Name": {
+      "type": "varchar",
+
+      "label": "Name"
+    },
+    "Sex": {
+      "type": "varchar",
+      "label": "Sex"
+    },
+    "Age": {
+      "type": "varchar",
+      "label": "Age"
+    },
+    "SibSp": {
+      "type": "varchar",
+      "label": "SibSp"
+    },
+    "Parch": {
+      "type": "varchar",
+      "label": "Parch"
+    },
+    "Ticket": {
+      "type": "varchar",
+      "label": "Ticket"
+    },
+    "Fare": {
+      "type": "varchar",
+      "label": "Fare"
+    },
+    "Cabin": {
+      "type": "varchar",
+      "label": "Cabin"
+    },
+    "Embarked": {
+      "type": "varchar",
+      "label": "Embarked"
+    }
+  }
+}

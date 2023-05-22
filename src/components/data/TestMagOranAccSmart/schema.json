@@ -1,0 +1,112 @@
+{
+  "columns": {
+    "DateCreation": {
+      "type": "date",
+      "label": "Date création",
+      "suffix": "",
+      "filterable": false,
+      "icon": "date_range",
+      "length": 2
+    },
+    "modePaiement": {
+      "type": "set(Comptant,A terme,Par chèque)"
+    },
+    "Wilaya": {
+      "type": "varchar"
+    },
+    "idMagasin": {
+      "type": "foreigns",
+      "label": "Magasin",
+      "length": 2,
+      "possibles": [
+        {
+          "value": 2,
+          "label": "Semi-Gros 4Force"
+        },
+        {
+          "value": 1,
+          "label": "Magasin Oran"
+        },
+        {
+          "value": 4,
+          "label": "Flexy Gros"
+        },
+        {
+          "value": 6,
+          "label": "Flexy détail"
+        },
+        {
+          "value": 3,
+          "label": "Accessoires "
+        },
+        {
+          "value": 7,
+          "label": "Proserve"
+        },
+        {
+          "value": 5,
+          "label": "Dépot"
+        },
+        {
+          "value": 8,
+          "label": "Sofiane"
+        },
+        {
+          "value": 11,
+          "label": "GBm"
+        },
+        {
+          "value": 10,
+          "label": "Mobi Channel"
+        },
+        {
+          "value": 9,
+          "label": "HTM"
+        },
+        {
+          "value": 12,
+          "label": "SAV"
+        },
+        {
+          "value": 13,
+          "label": "SNS"
+        },
+        {
+          "value": 14,
+          "label": "Kadi"
+        }
+      ]
+    },
+    "Marque": {
+      "type": "varchar(50)",
+      "label": "Marque",
+      "suffix": "",
+      "filterable": false,
+      "icon": "printerest",
+      "length": 2
+    },
+    "Reduction": {
+      "type": "decimal(12,2)",
+      "label": "Réduction",
+      "suffix": "",
+      "filterable": false,
+      "icon": "trending_down"
+    },
+    "Couleur": {
+      "type": "varchar(50)",
+      "label": "Couleur",
+      "suffix": "",
+      "filterable": false,
+      "icon": "color",
+      "length": 1
+    },
+    "sum(Quantite)": {
+      "label": "Somme(Quantité)",
+      "type": "decimal(12,2)"
+    },
+    "sum(Benefice)": {
+      "label": "Somme(Bénéfice)",
+      "type": "decimal(10,2)"
+    }
+  }
+}

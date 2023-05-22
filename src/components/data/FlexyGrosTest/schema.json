@@ -1,0 +1,52 @@
+{
+  "columns": {
+    "DateCreation": {
+      "type": "date",
+      "label": "Date création",
+      "suffix": "",
+      "filterable": false,
+      "icon": "date_range",
+      "length": 2
+    },
+    "Client": {
+      "type": "varchar(50)",
+      "label": "Client",
+      "suffix": "",
+      "filterable": false,
+      "icon": "account_box",
+      "length": 3
+    },
+    "CatClient": {
+      "type": "varchar",
+      "label": "Catégorie client",
+      "icon": "contacts"
+    },
+    "Commune": {
+      "type": "varchar"
+    },
+    "Modele": {
+      "type": "varchar(50)",
+      "label": "Modéle",
+      "suffix": "",
+      "filterable": false,
+      "icon": "category",
+      "length": 2
+    },
+    "Marque": {
+      "type": "varchar(50)",
+      "label": "Marque",
+      "suffix": "",
+      "filterable": false,
+      "icon": "printerest",
+      "length": 2
+    },
+    "sum(Quantite)": {
+      "label": "Somme(Quantité)",
+      "type": "decimal(12,2)"
+    },
+    "sum(Benefice)": {
+      "label": "Somme(Bénéfice)",
+      "type": "decimal(10,2)"
+    }
+  }
+}
